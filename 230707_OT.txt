@@ -1,0 +1,37 @@
+HTML5 html. 5번째 협약
+1. 내용과 구조를 제외한 스타일 등의 내용은 적지말자.
+2. 태그의 통일
+3. 플러그인 같은거 제발 쓰지말자.
+4. 의미를 담자.
+
+CSS3
+    
+Cascade Style Sheet 
+
+JAVA JAVA JAVA JAVA
+JAVA Script    JAVA - 연관 직업 web publisher
+JAVA JAVA JAVA JAVA
+
+Win + E 		탐색기
+ctrl  + W 	창닫기
+Win + →	← ↑ ↓ 	창 위치 옮기기
+Alt + Tab 	창 전환
+Home/End 	줄 맨앞/뒤로 커서 옮기기
+Shift + 방향키 	글자 선택하기
+Ctrl + 방향키 	좌우 단어 단위로 이동
+Ctrl + N 		파일 새로만들기
+Ctrl + S 		파일 저장
+Ctrl + O 		파일 열기
+Ctrl + (+/-)	확대 축소
+F1		도움말열기
+
+이름짓는 규칙
+1. 영어와 숫자만 쓴다.
+2. 특수문자를 쓸수 없다.(띄어쓰기 포함)
+3. 이미 있는 이름과 겹치면 안된다.
+4. 내용이 가늠이 되는 이름으로 만든다. (연관성있게)
+
+대문자 : Uppercase
+소문자 : Lowercase
+user_name	snake case
+userName	camel case
