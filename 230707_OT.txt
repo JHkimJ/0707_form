@@ -35,3 +35,22 @@ F1		도움말열기
 소문자 : Lowercase
 user_name	snake case
 userName	camel case
+
+
+maxlength : 글자길이 최대수 
+label : 체크박스 를 하나의 칸으로 만들수있음
+
+apply.jsp
+?
+userName=%EA%B9%80%EC%9E%AC%ED%98%B8&
+userId=asdasd
+&
+userPw=123123
+&
+part=1
+&
+gender=0
+&
+hobby=cli
+&
+birth=2001-12-30
